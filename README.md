@@ -90,7 +90,7 @@ I’m a passionate project and product manager with a strong foundation in data 
 ---
 
 ### 🏆 Achievements
-- **Published Research**: "Fashion 4.0 - IoT in Fashion" in CSI Journal  
+- **Published Research**: "Fashion 4.0 - IoT in Fashion" in CSIC Journal  
 
 ---
 
