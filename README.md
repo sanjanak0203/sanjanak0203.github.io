@@ -17,33 +17,33 @@ I’m a passionate project and product manager with a strong foundation in data 
 
 ## 💼 Professional Experience
 
-### 🏠 [Rice Housing and Dining](https://housing.rice.edu/) - Social Media & Web Coordinator  
+### [Rice Housing and Dining](https://housing.rice.edu/) - Social Media & Web Coordinator  
 **Sept 2024 - Present**  
 - 🚀 Optimized web content, boosting user engagement by **25%** and traffic by **30%** through SEO strategies.
 - 📈 Developed social media campaigns that resulted in a **35% growth** in followers.
 
-### 💡 [LIStartup](https://www.linkedin.com/company/listartup/) - Innovation Intern  
+### [LIStartup](https://www.linkedin.com/company/listartup/) - Innovation Intern  
 **May 2024 - Aug 2024**  
 - 📝 Created and managed a training course on Low-Investment Startups, helping **150 users** overcome startup challenges.
 - 🎯 Increased engagement by **26%** through strategic digital marketing efforts.
 
-### 📚 [Fondren Library UX Department](https://library.rice.edu/) - Project Management Intern  
+### [Fondren Library UX Department](https://library.rice.edu/) - Project Management Intern  
 **Mar 2024 - May 2024**  
 - 🗂️ Led UX optimization projects for over **8,500 students**, delivering results within timeline and budget.
 
-### 🏢 [Kimball Electronics](https://www.kimballelectronics.com/) - Extern  
+### [Kimball Electronics](https://www.kimballelectronics.com/) - Extern  
 **Mar 2024**  
 - 👥 Gained valuable insights into **HR management**, talent acquisition, and **ESG reporting**.
 - 📊 Shadowed team directors, VPs, and CTOs, learning strategic decision-making and best practices.
 - 🛠️ Acquired foundational knowledge of **HRIS (Human Resources Information Systems)**.
 
-### 💼 [FIS Global](https://www.fisglobal.com/) - Multi Media Training Developer  
+### [FIS Global](https://www.fisglobal.com/) - Multi Media Training Developer  
 **Feb 2022 - Dec 2023**  
 - 🎓 Developed and delivered **10 client-specific training modules** for custom software solutions.
 - 💼 Implemented **12 training programs** to enhance internal employee skills, improving productivity.
 - 📅 Demonstrated strong project management, delivering all modules ahead of schedule with a **95% satisfaction** rate.
 
-### 🏭 [Bosch Limited](https://www.bosch.com/) - Intern  
+### [Bosch Limited](https://www.bosch.com/) - Intern  
 **Sep 2021 - Nov 2021**  
 - ⚙️ Led automation of data extraction and analysis for the two-wheelers and powersports department.
 - ⏱️ Reduced manual work time from **2 weeks to 20 seconds** through Python automation.
