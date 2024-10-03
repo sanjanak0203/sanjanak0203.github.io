@@ -82,6 +82,28 @@ I’m a passionate project and product manager with a strong foundation in data 
 - **Methodologies**: Agile, Scrum, Product Roadmaps, User Research, Data Analysis
 
 ---
+## 🎉 Volunteer Experience
+
+### Graduate Student Association (GSA) - USA (Sep 24 - Present)
+**Department Representative**
+- Advocate for graduate student needs as a liaison between students and the MEML Department, participating in council discussions and advocating for student needs and concerns.
+- Organize initiatives and events to enhance the academic and social experience for graduate students.
+
+### Indian Student Association at Rice (ISAR) - USA (Aug 24 - Present)
+**Vice President**
+- Lead efforts to promote Indian culture and community engagement through events and activities.
+- Collaborate with executive members to plan and execute initiatives and events that support and connect Indian students at Rice.
+
+### MEML Mentorship Program - USA (Aug 24 - Present)
+**Co-Chair**
+- Oversee mentorship initiatives, pairing students with experienced professionals to foster career development.
+- Coordinate events and workshops that enhance networking opportunities and skill-building for participants.
+
+### Kalaparva (Undergrad Cultural Committee) - India (Aug 21 - May 22)
+**President**
+- Led the organization of a large-scale intercollegiate cultural fest, coordinating with celebrities, alumni, and student associations.
+- Organized events at college to enhance student social experience.
+- Managed a team of 85 students to plan events that attracted over 6,000 participants from various universities.
 
 ## 🚀 Let's Connect!
 - 📧 **Email**: sk257@rice.edu  
