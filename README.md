@@ -6,7 +6,7 @@
 
 **Masters in Engineering Management and Leadership (Data Science Specialization) | Aspiring Product & Project Manager**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjana-kumar02)  
-📧 sk257@rice.edu | 📱 +17377770466  
+📧 sk257@rice.edu | 📱 +17377770466 
 
 ---
 
