@@ -78,10 +78,10 @@ I’m a passionate project and product manager with a strong foundation in data 
 
 ## 🌟 Skills
 - **Languages**: Python, C++  
-- **Tools & Tech**: HTML/CSS, Camtasia, Vyond, Canva, Capcut, Miro, Asana, Google Analytics  
+- **Tools & Tech**: HTML/CSS, Camtasia, Vyond, Canva, Capcut, Google Analytics  
 - **Methodologies**: Agile, Scrum, Product Roadmaps, User Research, Data Analysis
 - **Project Management Tools**: Asana, Microsoft Project, Jira  
-- **Product Management**: User Story Mapping, Roadmapping, Product Lifecycle Management, Agile Methodologies
+- **Product Management**: User Story Mapping, Roadmapping, Product Lifecycle Management, Agile Methodologies, Miro
 - **Communication & Collaboration**: Stakeholder Management, Cross-functional Team Leadership, User Research 
 
 ---
