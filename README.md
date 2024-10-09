@@ -22,9 +22,9 @@ I’m a passionate project and product manager with a strong foundation in data 
 - 🚀 Optimized web content, boosting user engagement by **25%** and traffic by **30%** through SEO strategies.
 - 📈 Developed social media campaigns that resulted in a **35% growth** in followers.
 
-### [LIStartup](https://www.linkedin.com/company/listartup/) - Innovation Intern  
+### [LIStartup](https://www.linkedin.com/company/listartup/) - Product Management Intern  
 **May 2024 - Aug 2024**  
-- 📝 Created and managed a training course on Low-Investment Startups, helping **150 users** overcome startup challenges.
+- 📝 Created and managed a training course on Low-Investment Startups using Agile methodologies, helping **150 users** overcome startup challenges.
 - 🎯 Increased engagement by **26%** through strategic digital marketing efforts.
 
 ### [Fondren Library UX Department](https://library.rice.edu/) - Project Management Intern  
@@ -37,13 +37,13 @@ I’m a passionate project and product manager with a strong foundation in data 
 - 📊 Shadowed team directors, VPs, and CTOs, learning strategic decision-making and best practices.
 - 🛠️ Acquired foundational knowledge of **HRIS (Human Resources Information Systems)**.
 
-### [FIS Global](https://www.fisglobal.com/) - Multi Media Training Developer  
+### [FIS Global](https://www.fisglobal.com/) - Training Project Manager
 **Feb 2022 - Dec 2023**  
 - 🎓 Developed and delivered **10 client-specific training modules** for custom software solutions.
 - 💼 Implemented **12 training programs** to enhance internal employee skills, improving productivity.
 - 📅 Demonstrated strong project management, delivering all modules ahead of schedule with a **95% satisfaction** rate.
 
-### [Bosch Limited](https://www.bosch.com/) - Intern  
+### [Bosch Limited](https://www.bosch.com/) - Data Analytics Intern  
 **Sep 2021 - Nov 2021**  
 - ⚙️ Led automation of data extraction and analysis for the two-wheelers and powersports department.
 - ⏱️ Reduced manual work time from **2 weeks to 20 seconds** through Python automation.
@@ -80,6 +80,9 @@ I’m a passionate project and product manager with a strong foundation in data 
 - **Languages**: Python, C++  
 - **Tools & Tech**: HTML/CSS, Camtasia, Vyond, Canva, Capcut, Miro, Asana, Google Analytics  
 - **Methodologies**: Agile, Scrum, Product Roadmaps, User Research, Data Analysis
+- **Project Management Tools**: Asana, Microsoft Project, Jira  
+- **Product Management**: User Story Mapping, Roadmapping, Product Lifecycle Management, Agile Methodologies
+- **Communication & Collaboration**: Stakeholder Management, Cross-functional Team Leadership, User Research 
 
 ---
 ## 🎉 Volunteer Experience
