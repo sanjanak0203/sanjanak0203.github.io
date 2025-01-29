@@ -17,10 +17,11 @@ I’m a passionate project and product manager with a strong foundation in data 
 
 ## 💼 Professional Experience
 
-### [Rice Housing and Dining](https://housing.rice.edu/) - Social Media & Web Coordinator  
+### [Rice Housing and Dining](https://housing.rice.edu/) - Project Manager 
 **Sept 2024 - Present**  
-- 🚀 Optimized web content, boosting user engagement by **25%** and traffic by **30%** through SEO strategies.
-- 📈 Developed social media campaigns that resulted in a **35% growth** in followers.
+- 🚀 Improved user engagement and experience by optimizing training content hosted on digital platforms, resulting in a 30% increase in website traffic. 
+- Coordinated project timelines and deliverables through Asana, boosting team productivity by 50%. 
+-📈 Conducted weekly team meetings, improving task completion rates by 30% and maintaining project momentum. 
 
 ### [LIStartup](https://www.linkedin.com/company/listartup/) - Product Management Intern  
 **May 2024 - Aug 2024**  
